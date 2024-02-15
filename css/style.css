@@ -1,0 +1,7 @@
+:root {
+    --black-color: #0000;
+}
+
+header {
+    background-color: var(--black-color);
+}

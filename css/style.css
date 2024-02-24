@@ -25,7 +25,10 @@ body {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
-    color: #2e2f42;
+}
+.nav-list-item:hover,
+.nav-list-item:focus {
+    color: #404bbf;;
 }
 .page-address-list {
     font-family: "Roboto", sans-serif;
@@ -33,7 +36,10 @@ body {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
-    color: #434455;
+}
+.page-address-list:hover
+.page-address-list:focus, {
+    color: #404bbf;
 }
 .section2 {
     font-family: "roboto", sans-serif;
@@ -46,6 +52,21 @@ body {
     text-align: center;
     background: #2e2f42;
     color: #fff;
+}
+.order-button {
+    font-family: "Roboto", sans-serif;
+font-weight: 500;
+font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.04em;
+color: #fff;
+background: #4d5ae5;
+}
+.order-button:hover,
+.order-button:focus {
+    background: #404bbf;
+}
+
 }
 .h3-item {
     font-weight: 500;

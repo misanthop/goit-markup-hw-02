@@ -21,7 +21,6 @@ body {
     font-size: 18px;
     line-height: 1.17;
     letter-spacing: 0.03em;
-    text-transform: uppercase;
     color: #4d5ae5;
 }
 .logo-black-color {
@@ -38,7 +37,8 @@ body {
 .nav-link:focus {
     color: #404bbf;
 }
-address {font-style: normal;
+address {
+    font-style: normal;
 }
 .page-address-link {
     font-size: 16px;

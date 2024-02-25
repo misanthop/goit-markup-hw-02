@@ -45,7 +45,10 @@ address {font-style: normal;}
 .page-address-link:focus {
     color: #404bbf;
 }
-.section2 {
+.section-one {
+    background: #2e2f42;
+}
+.section-two {
     font-family: "roboto", sans-serif;
 }
 .h1-main {
@@ -54,7 +57,6 @@ address {font-style: normal;}
     line-height: 1.07;
     letter-spacing: 0.02em;
     text-align: center;
-    background: #2e2f42;
     color: #fff;
 }
 .order-button {
@@ -102,7 +104,7 @@ background: #4d5ae5;
     line-height: 1.5;
     letter-spacing: 0.02em;
 }
-.section3 {
+.section-three {
     font-family: "Roboto", sans-serif;
 }
 .portfolio-header {

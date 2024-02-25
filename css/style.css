@@ -20,15 +20,16 @@ body {
 .logo-black-color {
     color: #2e2f42;
 }
-.nav-list-item {
+.nav-link {
     font-family: "Roboto", sans-serif;
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
+    color: #2e2f42;
 }
-.nav-list-item:hover,
-.nav-list-item:focus {
+.nav-link:hover,
+.nav-link:focus {
     color: #404bbf;
 }
 address {font-style: normal;}

@@ -135,7 +135,9 @@ background: #4d5ae5;
     line-height: 1.5;
     letter-spacing: 0.02em;
 }
-.footer-side {background: #2e2f42;}
+.footer-side {
+    background: #2e2f42;
+}
 .footer-logo {
     font-family: "Raleway", sans-serif;
     font-weight: 700;

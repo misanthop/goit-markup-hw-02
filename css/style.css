@@ -77,11 +77,15 @@ background: #4d5ae5;
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
-    color: #2e2f42;}
+    color: #2e2f42;
+}
 .section-two-list-text {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
+}
+.section-three {
+    background-color: #F4F4FD;
 }
 .our-team-header {
     font-weight: 700;
@@ -92,6 +96,10 @@ background: #4d5ae5;
     text-align: center;
     color: #2e2f42;
 }
+.our-team-list-photos {
+    background-color: #fff;
+}
+
 .our-team-members {
     font-weight: 500;
     font-size: 20px;

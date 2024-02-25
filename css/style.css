@@ -1,8 +1,15 @@
-ul, ol {list-style-type: none;}
-a {text-decoration: none;
+ul, ol {
+    list-style-type: none;
 }
-button {cursor: pointer;}
-img {display: block;}
+a {
+    text-decoration: none;
+}
+button {
+    cursor: pointer;
+}
+img {
+    display: block;
+}
 body {
     font-family: "Roboto", sans-serif;
     color: #434455;
@@ -21,7 +28,6 @@ body {
     color: #2e2f42;
 }
 .nav-link {
-    font-family: "Roboto", sans-serif;
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
@@ -35,7 +41,6 @@ body {
 address {font-style: normal;
 }
 .page-address-link {
-    font-family: "Roboto", sans-serif;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;

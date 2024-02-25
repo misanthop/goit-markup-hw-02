@@ -33,15 +33,16 @@ body {
     color: #404bbf;
 }
 address {font-style: normal;}
-.page-address-list {
+.page-address-link {
     font-family: "Roboto", sans-serif;
     font-weight: 400;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
+    color: #434455;
 }
-.page-address-list:hover
-.page-address-list:focus {
+.page-address-link:hover,
+.page-address-link:focus {
     color: #404bbf;
 }
 .section2 {

@@ -19,9 +19,6 @@ a {
 button {
     cursor: pointer;
 }
-img {
-    display: block;
-}
 body {
     font-family: "Roboto", sans-serif;
     color: #434455;
@@ -38,6 +35,9 @@ body {
 section {
     padding-top: 120px;
     padding-bottom: 120px;
+}
+img {
+    display: block;
 }
 .page-header {
     border-bottom: 1px solid #e7e9fc;
@@ -108,6 +108,7 @@ address {
     font-family: "Roboto", sans-serif;
 }
 .main-title {
+    max-width: 496px;
     font-weight: 700;
     font-size: 56px;
     line-height: 1.07;

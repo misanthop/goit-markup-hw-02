@@ -50,13 +50,14 @@ img {
 .page-navi {
     display: flex;
     align-items: center;
+    padding-top: 24px; 
+    padding-bottom: 24px;
 }
 .nav-list {
     display: flex;
     gap: 40px;
     align-items: center;
-    padding: 24px 0
-}
+    }
 .page-logo {
     font-family: "Raleway", sans-serif;
     font-weight: 700;

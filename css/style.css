@@ -642,7 +642,9 @@ img {
     background: #2E2F42;
     padding: 100px 0;
 }
-
+.backdrop {
+    background-color: rgba(46, 47, 66, 0.4);
+}
 .footer .container {
     display: flex;
     align-items: baseline;
